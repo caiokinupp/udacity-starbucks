@@ -28,7 +28,7 @@ My task is to use the training data to understand what patterns in V1-V7 to indi
  
 IRR depicts how many more customers purchased the product with the promotion, as compared to if they didn't receive the promotion. Mathematically, it's the ratio of the number of purchasers in the promotion group to the total number of customers in the purchasers group (treatment) minus the ratio of the number of purchasers in the non-promotional group to the total number of customers in the non-promotional group (control).
 
-$IRR = frac{purch_{treat}}{cust_{treat}}$
+$IRR = \frac{purch_{treat}}{cust_{treat}}$
 
   **Net Incremental Revenue (NIR)**
 
